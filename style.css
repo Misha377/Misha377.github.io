@@ -1,1 +1,7 @@
-
+html {
+  background:http://cdn.pcwallart.com/images/god-of-war-ares-boss-wallpaper-2.jpg(images/bg.jpg) no repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
